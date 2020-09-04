@@ -27,7 +27,7 @@
 		"vue": "^2.4.1",
 		"vue-awesome": "^2.3.1",
 		"vue-axios": "^2.0.2",
-		"vue-moment": "^2.0.2",
+		"vue-moment": "^4.1.0",
 		"vue-router": "^2.3.1",
 		"vue-stash": "^2.0.1-beta",
 		"vuetify": "^0.15.2",
